@@ -1,4 +1,5 @@
 # Autonomous-SoS
+
 Android application that takes a video clip when it senses that the user is in danger and alerts authorities.
 
 ## Screens
@@ -14,8 +15,10 @@ Android application that takes a video clip when it senses that the user is in d
   <img src="https://user-images.githubusercontent.com/30159212/131123562-7c24f9d3-060a-45fc-a8e1-bfa3d5aa3d72.png" width="270" height="555">
 </div>
 
-### Timer Screen
+### Timer screen
+
 <img src="https://user-images.githubusercontent.com/30159212/131123587-9ecbdb3a-bc6f-4e83-bf5a-75715ccd90dd.png" width="270" height="555">
 
 ### Demo
+
 [![image](https://user-images.githubusercontent.com/30159212/131124385-99ae51ae-f373-4d03-8390-222bd79efc34.jpg)](https://www.youtube.com/watch?v=G2nxI3zIBCY)
