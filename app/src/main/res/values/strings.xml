@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AutonomouSOS</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+
+    <!--    <string name="app_name">SimpleVideoView</string>-->
+
+    <!-- Message to display while video is buffering. -->
+    <string name="buffering_string">Buffering&#8230;</string>
+
+    <!-- Message to display when video is finished playing. -->
+    <string name="toast_message">Playback completed.</string>
+
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2hlaGFia290YiIsImEiOiJja2l6ZTNsZzcyZzNwMndzYzgwY3ltd2trIn0.s8dA1fQgGn0CVOrDtGlXig</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
